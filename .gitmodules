@@ -1,3 +1,15 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/git/git.git
+[submodule "git1"]
+	path = git1
+	url = ./git
+[submodule "git2"]
+	path = git2
+	url = ./git
+[submodule "git3"]
+	path = git3
+	url = ./git
+[submodule "git4"]
+	path = git4
+	url = ./git
